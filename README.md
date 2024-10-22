@@ -1,3 +1,5 @@
+# Song Polarity Predictive Model
+
 ●	Wrangled and transformed song dataset, and applied encoding and feature scaling to prepare data for modeling
 
 ●	Developed a linear regression model to predict song popularity, offering insights to support data-driven decisions
